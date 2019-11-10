@@ -1,0 +1,1 @@
+Hello there. The password reset link is <a href="{{$url}}">here</a>
